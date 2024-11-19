@@ -1,0 +1,288 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Which sentence is compound?",
+    "options": [
+      "The cat slept on the windowsill.",
+      "The cat slept on the windowsill, and the dog lay by the fire.",
+      "While the cat slept, the dog played in the yard.",
+      "The sleeping cat purred softly."
+    ],
+    "correct": 1,
+    "explanation": "This is a compound sentence because it contains two independent clauses (\"The cat slept on the windowsill\" and \"the dog lay by the fire\") joined by the coordinating conjunction \"and\". Each clause can stand alone as a complete sentence."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Identify the complex sentence:",
+    "options": [
+      "I like pizza and pasta.",
+      "I enjoy pizza, but I prefer pasta.",
+      "Although I like pizza, I prefer pasta.",
+      "I like pizza. I prefer pasta."
+    ],
+    "correct": 2,
+    "explanation": "This is a complex sentence because it contains one independent clause (\"I prefer pasta\") and one dependent clause (\"Although I like pizza\"). The dependent clause starts with the subordinating conjunction \"Although\" and cannot stand alone as a complete sentence."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Which is the correct way to join these independent clauses into a compound sentence? \"The sun was shining.\" \"We went to the beach.\"",
+    "options": [
+      "The sun was shining, we went to the beach.",
+      "The sun was shining. We went to the beach.",
+      "The sun was shining, and we went to the beach."
+    ],
+    "correct": 2,
+    "explanation": "This is the correct way to form a compound sentence because it joins two independent clauses with a comma and the coordinating conjunction \"and\". The comma before the conjunction is necessary when joining two complete sentences."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Which sentence uses a subordinating conjunction?",
+    "options": [
+      "Because I skipped breakfast, I'm very hungry.",
+      "I'm still hungry, so I'll have a snack.",
+      "I ate breakfast, but I'm still hungry.",
+      "I'm hungry, and I want a snack."
+    ],
+    "correct": 0,
+    "explanation": "This sentence uses the subordinating conjunction \"Because\" to introduce the dependent clause \"Because I skipped breakfast\". Subordinating conjunctions are used in complex sentences to show the relationship between the dependent and independent clauses."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Identify the independent clause in this complex sentence: \"When the bell rang, the students rushed out of the classroom.\"",
+    "options": [
+      "When the bell rang",
+      "the students rushed",
+      "out of the classroom",
+      "the students rushed out of the classroom"
+    ],
+    "correct": 3,
+    "explanation": "The independent clause is \"the students rushed out of the classroom\" because it can stand alone as a complete sentence. \"When the bell rang\" is the dependent clause, which cannot stand alone and relies on the independent clause to make sense."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Which sentence is simple (not compound or complex)?",
+    "options": [
+      "The old car broke down on the highway.",
+      "The old car broke down, and we had to call a tow truck.",
+      "Because the old car broke down, we had to call a tow truck."
+    ],
+    "correct": 0,
+    "explanation": "This is a simple sentence because it contains only one independent clause. It has a subject (\"The old car\") and a predicate (\"broke down on the highway\"), but does not contain any additional independent or dependent clauses."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "In the sentence \"Although it was raining, we decided to go for a walk,\" which part is the dependent clause?",
+    "options": [
+      "Although it was raining",
+      "we decided to go for a walk"
+    ],
+    "correct": 0,
+    "explanation": "\"Although it was raining\" is the dependent clause because it begins with the subordinating conjunction \"Although\" and cannot stand alone as a complete sentence. It depends on the independent clause \"we decided to go for a walk\" to make sense."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Which coordinating conjunction would best join these independent clauses? \"I wanted to go to the party. I had too much homework.\"",
+    "options": [
+      "and",
+      "but",
+      "so",
+      "for"
+    ],
+    "correct": 1,
+    "explanation": "The conjunction \"but\" is the best choice because it shows a contrast between the two ideas. The first clause expresses a desire to go to the party, while the second clause presents a conflicting reason for not going. \"But\" effectively communicates this contrast."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Which is not a coordinating conjunction?",
+    "options": [
+      "and",
+      "but",
+      "because",
+      "or"
+    ],
+    "correct": 2,
+    "explanation": "\"Because\" is not a coordinating conjunction; it's a subordinating conjunction. Coordinating conjunctions (FANBOYS: For, And, Nor, But, Or, Yet, So) join independent clauses in compound sentences. \"Because\" introduces dependent clauses in complex sentences."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Identify the complex sentence:",
+    "options": [
+      "The movie was long but interesting.",
+      "The movie was long, and it was interesting.",
+      "Although the movie was long, it was interesting.",
+      "The long movie was interesting."
+    ],
+    "correct": 2,
+    "explanation": "This is a complex sentence because it contains one independent clause (\"it was interesting\") and one dependent clause (\"Although the movie was long\"). The dependent clause is introduced by the subordinating conjunction \"Although\"."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "In the sentence \"When it rains, the plants grow quickly,\" which part is the independent clause?",
+    "options": [
+      "When it rains",
+      "the plants grow quickly",
+      "quickly"
+    ],
+    "correct": 1,
+    "explanation": "\"The plants grow quickly\" is the independent clause because it can stand alone as a complete sentence. \"When it rains\" is the dependent clause, which provides additional information but cannot stand alone."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Identify the subordinating conjunction in this sentence: \"If it rains tomorrow, we'll cancel the picnic.\"",
+    "options": [
+      "If",
+      "it",
+      "tomorrow",
+      "we'll"
+    ],
+    "correct": 0,
+    "explanation": "\"If\" is the subordinating conjunction in this sentence. It introduces the dependent clause \"If it rains tomorrow\", showing a conditional relationship between the clauses."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Which sentence is not a complex sentence?",
+    "options": [
+      "Because it was late, we went to bed.",
+      "We went to bed because it was late.",
+      "It was late, so we went to bed."
+    ],
+    "correct": 2,
+    "explanation": "This is a compound sentence, not a complex sentence. It contains two independent clauses joined by the coordinating conjunction \"so\". Complex sentences must have one independent clause and at least one dependent clause."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Which is an example of a complex sentence with the dependent clause at the end?",
+    "options": [
+      "When it snows, schools often close.",
+      "Schools often close when it snows.",
+      "It snows, and schools often close."
+    ],
+    "correct": 1,
+    "explanation": "This is a complex sentence with the dependent clause (\"when it snows\") at the end. The independent clause \"Schools often close\" comes first, followed by the dependent clause introduced by the subordinating conjunction \"when\"."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Identify the compound sentence:",
+    "options": [
+      "The energetic puppy ran around the yard.",
+      "The energetic puppy ran around the yard, and he chased butterflies.",
+      "While the energetic puppy ran around the yard, it chased butterflies.",
+      "The puppy, which was very energetic, ran around the yard."
+    ],
+    "correct": 1,
+    "explanation": "This is a compound sentence because it contains two independent clauses (\"The energetic puppy ran around the yard\" and \"he chased butterflies\") joined by the coordinating conjunction \"and\". Each clause can stand alone as a complete sentence."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "In the sentence \"While I enjoy reading, I prefer watching movies,\" which part is the independent clause?",
+    "options": [
+      "While I enjoy reading",
+      "I prefer watching movies"
+    ],
+    "correct": 1,
+    "explanation": "\"I prefer watching movies\" is the independent clause because it can stand alone as a complete sentence. \"While I enjoy reading\" is the dependent clause, introduced by the subordinating conjunction \"While\"."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Identify the complex sentence:",
+    "options": [
+      "The cat meowed loudly and scratched at the door.",
+      "The cat meowed loudly, scratching at the door.",
+      "The cat meowed loudly, and it scratched at the door.",
+      "When the cat meowed loudly, it scratched at the door."
+    ],
+    "correct": 3,
+    "explanation": "This is a complex sentence because it contains one independent clause (\"it scratched at the door\") and one dependent clause (\"When the cat meowed loudly\"). The dependent clause is introduced by the subordinating conjunction \"When\"."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Which sentence is a complex sentence?",
+    "options": [
+      "The sun was shining brightly in the sky.",
+      "The sun was shining, and the birds were singing.",
+      "While the sun was shining, the birds were singing."
+    ],
+    "correct": 2,
+    "explanation": "This is a complex sentence because it contains one independent clause (\"the birds were singing\") and one dependent clause (\"While the sun was shining\"). The dependent clause is introduced by the subordinating conjunction \"While\" and cannot stand alone as a complete sentence."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Fill in the blank with the correct coordinating conjunction to show the contrast: \"I wanted to go to the party, _____ I had to study for my test.\"",
+    "options": [
+      "and",
+      "but"
+    ],
+    "correct": 1,
+    "explanation": "The coordinating conjunction \"but\" is the best choice here because it shows a contrast between the two independent clauses. The first clause expresses a desire to go to the party, while the second clause presents a conflicting reason for not going. \"But\" effectively communicates this contrast."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Identify the independent clause in this complex sentence: \"Because it was raining, we cancelled the picnic.\"",
+    "options": [
+      "Because it was raining",
+      "we cancelled the picnic",
+      "the picnic"
+    ],
+    "correct": 1,
+    "explanation": "\"We cancelled the picnic\" is the independent clause because it can stand alone as a complete sentence. \"Because it was raining\" is the dependent clause, which provides a reason but cannot stand alone as a complete thought."
+  },
+  {
+    "questionNo": "Q21.",
+    "question": "Which word is not a subordinating conjunction?",
+    "options": [
+      "Because",
+      "Although",
+      "When",
+      "And"
+    ],
+    "correct": 3,
+    "explanation": "\"And\" is not a subordinating conjunction; it's a coordinating conjunction. Subordinating conjunctions (like \"because,\" \"although,\" and \"when\") introduce dependent clauses in complex sentences, while coordinating conjunctions join independent clauses in compound sentences."
+  },
+  {
+    "questionNo": "Q22.",
+    "question": "Fill in the blank with the correct subordinating conjunction: \"_____ it was late, we decided to go home.\"",
+    "options": [
+      "And",
+      "But",
+      "Since",
+      "So"
+    ],
+    "correct": 2,
+    "explanation": "\"Since\" is the correct subordinating conjunction to use here. It introduces a dependent clause that provides a reason for the action in the independent clause. The sentence is now a complex sentence: \"Since it was late, we decided to go home.\""
+  },
+  {
+    "questionNo": "Q23.",
+    "question": "Which sentence is a simple sentence (not compound or complex)?",
+    "options": [
+      "The old car, which hadn't been serviced in years, broke down.",
+      "The old car broke down, and we had to call a tow truck.",
+      "Because the old car broke down, we had to call a tow truck.",
+      "The old car suddenly broke down on the highway."
+    ],
+    "correct": 3,
+    "explanation": "This is a simple sentence because it contains only one independent clause. It has a subject (\"The old car\") and a predicate (\"suddenly broke down on the highway\"), but does not contain any additional independent or dependent clauses."
+  },
+  {
+    "questionNo": "Q24.",
+    "question": "Fill in the blank with the correct conjunction: \"We can go to the movies, _____ we can stay home and watch TV.\"",
+    "options": [
+      "and",
+      "but",
+      "or",
+      "so"
+    ],
+    "correct": 2,
+    "explanation": "The conjunction \"or\" is the best choice here because it presents two alternatives or options. The sentence is offering a choice between going to the movies and staying home to watch TV, making \"or\" the most appropriate coordinating conjunction to use."
+  },
+  {
+    "questionNo": "Q25.",
+    "question": "Identify the compound sentence:",
+    "options": [
+      "The dog barked loudly at the mailman.",
+      "The dog barked loudly, and the mailman quickly left.",
+      "When the dog barked loudly, the mailman quickly left."
+    ],
+    "correct": 1,
+    "explanation": "This is a compound sentence because it contains two independent clauses (\"The dog barked loudly\" and \"the mailman quickly left\") joined by the coordinating conjunction \"and\". Each clause can stand alone as a complete sentence."
+  }
+]
